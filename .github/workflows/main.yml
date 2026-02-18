@@ -1,4 +1,4 @@
-name: Kernel building with an automatic release
+name: Kernel building
 
 on:
   workflow_dispatch:
